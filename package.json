@@ -1,0 +1,19 @@
+{
+  "name": "customerchatbot",
+  "version": "1.0.0",
+  "description": "a great conversational bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Customerbot/customerchatbot.git"
+  },
+  "author": "mf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Customerbot/customerchatbot/issues"
+  },
+  "homepage": "https://github.com/Customerbot/customerchatbot#readme"
+}
